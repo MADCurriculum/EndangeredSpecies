@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/bill/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.4.0/support-annotations-23.4.0.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="/Volumes/DATA/Users/bill/Desktop/EndangeredSpecies/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.4.0_ae5f469c1c1225d75de833672d15ff21144caf1f/classes.dex" />
+    </item>
+    <item
+        jar="/Volumes/DATA/Users/bill/Desktop/EndangeredSpecies/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="/Volumes/DATA/Users/bill/Desktop/EndangeredSpecies/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-23.4.0_de64b832506540a5c210b37a05eb0369d029207b/classes.dex" />
+    </item>
+    <item
+        jar="/Volumes/DATA/Users/bill/Desktop/EndangeredSpecies/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="64d6b5a5264541987f7747fe33322065f1dee3ef">
+        <dex dex="/Volumes/DATA/Users/bill/Desktop/EndangeredSpecies/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_2e75c753640476ba27e18ab4dc973a859365418a/classes.dex" />
+    </item>
+    <item
+        jar="/Volumes/DATA/Users/bill/Desktop/EndangeredSpecies/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/libs/internal_impl-23.4.0.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="/Volumes/DATA/Users/bill/Desktop/EndangeredSpecies/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.4.0_5c33a1ffd3433ebc378ffa6a44149b4a260c9114/classes.dex" />
+    </item>
+    <item
+        jar="/Volumes/DATA/Users/bill/Desktop/EndangeredSpecies/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="65e835a5659a8104857d6cb1b4502a1ed1da09c5">
+        <dex dex="/Volumes/DATA/Users/bill/Desktop/EndangeredSpecies/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_ac40371055376bfd0a2395ed4cd3d443d2232a74/classes.dex" />
+    </item>
+    <item
+        jar="/Volumes/DATA/Users/bill/Desktop/EndangeredSpecies/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="/Volumes/DATA/Users/bill/Desktop/EndangeredSpecies/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-23.4.0_69636d6ebd3639f996d47feada07d6360f27c285/classes.dex" />
+    </item>
+    <item
+        jar="/Volumes/DATA/Users/bill/Desktop/EndangeredSpecies/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="/Volumes/DATA/Users/bill/Desktop/EndangeredSpecies/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-23.4.0_7a28b821f076bede411a6521baba2602fecef559/classes.dex" />
+    </item>
+    <item
+        jar="/Volumes/DATA/Users/bill/Desktop/EndangeredSpecies/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="/Volumes/DATA/Users/bill/Desktop/EndangeredSpecies/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-23.4.0_6e2d89deebd5c153ab78a60093e2157e1ae8ce01/classes.dex" />
+    </item>
+
+</items>

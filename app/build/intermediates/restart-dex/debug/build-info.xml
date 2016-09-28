@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="x86"
+    api-level="23"
+    density="xxhdpi"
+    format="7"
+    timestamp="28219485745786"
+    token="1718876015382676722" >
+
+    <task
+        name="javac"
+        duration="930" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="289" />
+    <task
+        name="verifier"
+        duration="45" />
+
+    <artifact
+        location="/Volumes/DATA/Users/bill/Desktop/EndangeredSpecies/app/build/outputs/apk/app-debug.apk"
+        type="MAIN" />
+
+    <build timestamp="28219485745786" >
+        <artifact
+            location="/Volumes/DATA/Users/bill/Desktop/EndangeredSpecies/app/build/outputs/apk/app-debug.apk"
+            type="MAIN" />
+    </build>
+
+</instant-run>
